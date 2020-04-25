@@ -3,7 +3,7 @@
 The purpose of this project is to provide new renters and those unfamiliar with the San Francisco real estate market with advanced analytics and resources, allowing them to:
 
 1. **Part 1:** Identify / sort desirable neighborhoods from undesirable neighborhood based on crime and venue data. 
-2. Determine if a potential apartment or house is over or underpriced. 
+2. **Part 2:** Determine if a potential apartment or house is over or underpriced. 
 
 ### Data used: 
 1. [Craigslist Housing Data](https://sfbay.craigslist.org/d/apts-housing-for-rent/search/apa)
